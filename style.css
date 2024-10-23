@@ -88,3 +88,7 @@ h1 {
 .suggestion-item:hover {
     background-color: #f0f0f0;
 }
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
